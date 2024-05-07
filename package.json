@@ -9,5 +9,8 @@
   "jest": {
     "transform": {},
     "verbose": true
+  },
+  "dependencies": {
+    "bats": "^1.11.0"
   }
 }
